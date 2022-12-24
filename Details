@@ -1,0 +1,16 @@
+
+Topics:
+  array method arguments
+    forEach, map, filter, find
+  Filter --> filter the new array of elements which meets the condition
+  Map --> iterate and create new array using return from the passed function
+  Reduce --> 
+  Recap for important topics:
+    switch
+    while --> refer this for usage of while
+    
+
+Next Session: 
+  one example for copy by value and copy by reference
+  GIT ( Source Control )
+  Netlify ( Online Deplopyement Tool )
